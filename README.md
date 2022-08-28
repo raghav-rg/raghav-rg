@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Gupta</h1>
 <h3 align="center">A passionate frontend developer & a designer</h3>
 
-- 🌱 I’m currently learning **AI/ML**
 
 - 🤝 I’m looking for help with **DSA & CP**
 
